@@ -45,7 +45,7 @@ const About = () => {
             <li className='about__skillsItems'>Nodejs</li>
             <li className='about__skillsItems'>Expressjs</li>
             <li className='about__skillsItems'>React.js & Redux</li>
-            <li className='about__skillsItems'>MongoDB</li>
+            <li className='about__skillsItems'>Django</li>
             <li className='about__skillsItems'>Next.js</li>
             <li className='about__skillsItems'>Web Sockets</li>
             <li className='about__skillsItems'>SQL</li>
