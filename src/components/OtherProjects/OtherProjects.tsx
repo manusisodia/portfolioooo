@@ -61,17 +61,17 @@ const OtherProjects = () => {
             <div className='other__cardBody'>
               <div className='other__cardBodyHeading'>CodeForces</div>
               <p className='other__cardBodyDescription'>
-              Profile :<a href='https://codeforces.com/profile/hiesernberg' className='pl'>hiesernberg</a>
+              Profile :<a href='https://codeforces.com/profile/ThetechyGuy' className='pl'>ThetechyGuy</a>
                 <br />
-                Rating :1212+  |  PUPIL
+                Rating :1530  |  SPECIALIST
                 <br />
                 Solved Problems: 500+
                 <br />
                 Some Good Ranks in contest:
                 <br />
                 <ul className='li'>
-                  <li> Global rank of 2739 in codeforces round 871</li>
-                  <li>Global rank of 2721 in codeforces round 882</li>
+                  <li> Global rank of 1110 in codeforces educational round 172</li>
+                  <li>Global rank of 863 in codeforces round 1004</li>
                   
                 </ul>
 
