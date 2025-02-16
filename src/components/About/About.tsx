@@ -23,7 +23,7 @@ const About = () => {
           {' '}
           <span className='about__link'>Manu&nbsp;Sisodia</span>
           {' '}
-          and I’m a Mern-Stack Developer located in India and i have a serious passion for Compuer Science, Data Structure and Algorithms, Web Devlopment.
+          and I’m a Full-Stack Developer located in India and i have a serious passion for Compuer Science, Data Structure and Algorithms, Web Devlopment.
           {/* <br />
           <br /> */}
           {' '}
